@@ -2,4 +2,4 @@
 
 **Trabajo realizado por: Francisco Ignacio Jaén de la Rosa** 
 
-![portada]([https://i.pinimg.com/736x/08/c4/bb/08c4bbdacd8c6d009f4b4cbd75181949.jpg])
+![portada]([https://rbl-prod-blog-bucket.s3.ap-south-1.amazonaws.com/wp-content/uploads/2020/04/21133528/how-to-make-fitness-affordable-using-digital-apps-mob.jpg*)
