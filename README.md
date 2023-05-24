@@ -25,7 +25,7 @@ El software de reconocimiento de voz aprovecha ampliamente la hibridación moder
 
 1. La traducción automática es una de las aplicaciones más importantes para el software de **reconocimiento de voz.** Estas aplicaciones ofrecen comunicación en tiempo real entre hablantes de varios idiomas mediante el uso de algoritmos de procesamiento de lenguaje natural y traducción automática basados en el aprendizaje automático. Los usuarios pueden hablar en su idioma local y recibir instantáneamente una traducción al idioma de destino utilizando la voz como entrada. En instancias que involucran viajes, negocios en el extranjero e interacciones interculturales, esta combinación de tecnología supera las barreras del idioma y hace posible una comunicación efectiva.
 
-**EJEMPLOS:**
+### **EJEMPLOS:**
 ### -[Say Hi](https://www.sayhi.com/es/translate/)
 ### -[Google translate](https://translate.google.es/?hl=es) 
 ### -[Microsoft Translator](https://www.microsoft.com/es-es/translator/)
@@ -33,9 +33,9 @@ El software de reconocimiento de voz aprovecha ampliamente la hibridación moder
 
 2. Las aplicaciones para el reconocimiento de voz se emplean en campos que incluyen la **modulación del habla** además de la traducción. Los usuarios de estos programas pueden alterar su voz en tiempo real, agregar efectos o cambiar el tono para obtener resultados variados. Por ejemplo, los actores de voz usan estos programas para crear personajes con voces distintivas en el sector del entretenimiento. Para brindarles a los jugadores una experiencia más completa en la que puedan expresarse creativamente a través de la interacción vocal, también se utilizan en aplicaciones de juegos. 
 
-**EJEMPLOS:**
--[PowerDirector](https://es.cyberlink.com/downloads/trials/powerdirector-video-editing-software/download_es_ES.html)
--[Voicemod](https://www.voicemod.net/es/) 
+### **EJEMPLOS:**
+### -[PowerDirector](https://es.cyberlink.com/downloads/trials/powerdirector-video-editing-software/download_es_ES.html)
+### -[Voicemod](https://www.voicemod.net/es/) 
 
 3. **La accesibilidad** es otro ejemplo de cómo aparece la integración actual en el software de reconocimiento de voz. A las personas con problemas de idiomas ahora les resulta más sencillo comunicarse con los demás gracias a estas aplicaciones. El reconocimiento de voz permite a las personas con discapacidad comunicarse de forma rápida y eficaz, lo que les permite participar en la sociedad e integrarse. Estos programas pueden traducir palabras habladas en texto o comandos que se pueden usar para operar dispositivos y realizar operaciones. Las aplicaciones de reconocimiento de voz se utilizan a menudo para la ayuda personal y la productividad. En lugar de ingresar físicamente mensajes de texto, correos electrónicos, notas y otros documentos, los usuarios de estas aplicaciones pueden dictarlos. Esto ahorra tiempo y esfuerzo, especialmente cuando el teclado no está disponible o está en uso. Además, el software de asistente personal basado en el reconocimiento de voz se puede utilizar para controlar funciones del teléfono como llamadas, mensajes de texto, configuración de recordatorios y navegación web.
 
