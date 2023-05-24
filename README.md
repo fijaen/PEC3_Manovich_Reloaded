@@ -26,9 +26,9 @@ El software de reconocimiento de voz aprovecha ampliamente la hibridación moder
 1. La traducción automática es una de las aplicaciones más importantes para el software de **reconocimiento de voz.** Estas aplicaciones ofrecen comunicación en tiempo real entre hablantes de varios idiomas mediante el uso de algoritmos de procesamiento de lenguaje natural y traducción automática basados en el aprendizaje automático. Los usuarios pueden hablar en su idioma local y recibir instantáneamente una traducción al idioma de destino utilizando la voz como entrada. En instancias que involucran viajes, negocios en el extranjero e interacciones interculturales, esta combinación de tecnología supera las barreras del idioma y hace posible una comunicación efectiva.
 
 **EJEMPLOS:**
-###-[Say Hi](https://www.sayhi.com/es/translate/)
-###-[Google translate](https://translate.google.es/?hl=es) 
-###-[Microsoft Translator](https://www.microsoft.com/es-es/translator/)
+### -[Say Hi](https://www.sayhi.com/es/translate/)
+### -[Google translate](https://translate.google.es/?hl=es) 
+### -[Microsoft Translator](https://www.microsoft.com/es-es/translator/)
 
 
 2. Las aplicaciones para el reconocimiento de voz se emplean en campos que incluyen la **modulación del habla** además de la traducción. Los usuarios de estos programas pueden alterar su voz en tiempo real, agregar efectos o cambiar el tono para obtener resultados variados. Por ejemplo, los actores de voz usan estos programas para crear personajes con voces distintivas en el sector del entretenimiento. Para brindarles a los jugadores una experiencia más completa en la que puedan expresarse creativamente a través de la interacción vocal, también se utilizan en aplicaciones de juegos. 
