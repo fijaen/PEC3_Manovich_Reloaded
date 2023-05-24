@@ -22,7 +22,21 @@ La hibridación moderna se manifiesta de manera significativa en las aplicacione
 
 1. Uno de los usos más importantes de las aplicaciones de reconocimiento de voz es la **traducción automática.** Estas aplicaciones aprovechan el procesamiento del lenguaje natural basado en el aprendizaje automático y los algoritmos de traducción automática para permitir la comunicación en tiempo real entre hablantes de diferentes idiomas. Usando la voz como entrada, los usuarios pueden hablar en su idioma nativo y obtener una traducción instantánea al idioma deseado. Esta combinación de tecnologías trasciende las barreras del idioma y facilita la comunicación efectiva en situaciones de viaje, negocios internacionales y encuentros interculturales.  
 
+**EJEMPLOS:**
+-[Say Hi](https://www.sayhi.com/es/translate/)
+-[Google translate](https://translate.google.es/?hl=es) 
+-[Microsoft Translator](https://www.microsoft.com/es-es/translator/)
+
+
 2. Además de la traducción, las aplicaciones de reconocimiento de voz también se utilizan en áreas como **la modulación del habla.** Estas aplicaciones permiten a los usuarios modificar su voz en tiempo real, agregar efectos o cambiar el tono para lograr diferentes resultados. Por ejemplo, en la industria del entretenimiento, los actores de doblaje usan estas aplicaciones para crear personajes con voces únicas y distintas. También se utilizan en aplicaciones de juegos para brindar una experiencia más rica en la que los jugadores pueden interactuar con sus voces de manera creativa. 
 
-3. Otra área donde la integración moderna se manifiesta en las aplicaciones de reconocimiento de voz es la **accesibilidad.** Estas aplicaciones han facilitado que las personas con discapacidades del lenguaje se comuniquen  con los demás. Mediante el uso del reconocimiento de voz, las personas con discapacidad pueden transmitir sus mensajes de forma rápida y eficaz, lo que les permite integrarse y participar en la sociedad.                                                                              Estas aplicaciones pueden convertir el habla en texto escrito o  comandos para controlar el dispositivo y realizar acciones. Además, las aplicaciones de reconocimiento de voz se utilizan en las áreas de  productividad y  asistencia personal. Estas aplicaciones permiten a los usuarios dictar mensajes de texto, correos electrónicos, notas y otros documentos en lugar de escribirlos manualmente. Esto ahorra tiempo y esfuerzo, especialmente en situaciones en las que el teclado no se puede usar o se usa. Además, las aplicaciones de asistente personal basadas en el reconocimiento de voz pueden realizar acciones como hacer llamadas, enviar mensajes, configurar recordatorios y buscar  en Internet, todo a través de comandos del teléfono. 
+**EJEMPLOS:**
+-[PowerDirector](https://es.cyberlink.com/downloads/trials/powerdirector-video-editing-software/download_es_ES.html)
+-[Voicemod](https://www.voicemod.net/es/) 
+
+3. Otra área donde la integración moderna se manifiesta en las aplicaciones de reconocimiento de voz es la **accesibilidad.** Estas aplicaciones han facilitado que las personas con discapacidades del lenguaje se comuniquen  con los demás. Mediante el uso del reconocimiento de voz, las personas con discapacidad pueden transmitir sus mensajes de forma rápida y eficaz, lo que les permite integrarse y participar en la sociedad. Estas aplicaciones pueden convertir el habla en texto escrito o  comandos para controlar el dispositivo y realizar acciones. Además, las aplicaciones de reconocimiento de voz se utilizan en las áreas de  productividad y  asistencia personal. Estas aplicaciones permiten a los usuarios dictar mensajes de texto, correos electrónicos, notas y otros documentos en lugar de escribirlos manualmente. Esto ahorra tiempo y esfuerzo, especialmente en situaciones en las que el teclado no se puede usar o se usa. Además, las aplicaciones de asistente personal basadas en el reconocimiento de voz pueden realizar acciones como hacer llamadas, enviar mensajes, configurar recordatorios y buscar  en Internet, todo a través de comandos del teléfono. 
+
+## WEBGRAFÍA:
+
+- (https://www.ceupe.com/blog/reconocimiento-de-voz.html)
 
