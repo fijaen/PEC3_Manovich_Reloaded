@@ -56,27 +56,27 @@ Las aplicaciones de salud y fitness son un excelente ejemplo de hibridación mod
 1. El entrenamiento personalizado es una forma en que la hibridez moderna aparece en las aplicaciones de salud y fitness. Estas aplicaciones personalizan los regímenes y horarios de entrenamiento para satisfacer las necesidades e intereses únicos de los usuarios mediante algoritmos e inteligencia artificial. Estas aplicaciones desarrollan planes de entrenamiento personalizados y ofrecen orientación y asesoramiento a lo largo del tiempo teniendo en cuenta elementos como la edad, el nivel de forma física, los objetivos personales y ciertas limitaciones. Para maximizar los resultados y prevenir lesiones, las aplicaciones ahora pueden proporcionar recomendaciones precisas y modificaciones continuas gracias a una combinación de tecnologías.
 
 
-**EJEMPLOS:**
--[Keelo](https://www.keelo.com/)
--[Just 6 Weeks](https://play.google.com/store/apps/details?id=alexcrusher.just6weeks.pushups&hl=es_419&gl=US) 
--[Trifecta](https://www.trifectanutrition.com/partner-crossfit)
+### **EJEMPLOS:**
+### -[Keelo](https://www.keelo.com/)
+### -[Just 6 Weeks](https://play.google.com/store/apps/details?id=alexcrusher.just6weeks.pushups&hl=es_419&gl=US) 
+### -[Trifecta](https://www.trifectanutrition.com/partner-crossfit)
 
 
 2. Un contador de pasos, que realiza un seguimiento de la actividad física diaria mediante sensores en un dispositivo móvil o portátil, es otra característica muy apreciada de las aplicaciones de fitness. Estos sensores rastrean los movimientos del usuario y calculan cuántos pasos se dan cada día. Las aplicaciones pueden ofrecer información detallada sobre la actividad física y el progreso del usuario al fusionar esta información con datos adicionales, como la distancia recorrida y las calorías quemadas. Muchas de estas aplicaciones también estiman el ritmo y la velocidad de las caminatas y carreras al aire libre al combinar una variedad de tecnología basada en la ubicación.
 
 
-**EJEMPLOS:**
--[GoogleFit](https://www.google.com/intl/es_es/fit/)
--[Samsumg Health](https://www.samsung.com/es/apps/samsung-health/) 
--[Accupedo](https://accupedo.com/)
+### **EJEMPLOS:**
+### -[GoogleFit](https://www.google.com/intl/es_es/fit/)
+### -[Samsumg Health](https://www.samsung.com/es/apps/samsung-health/) 
+### -[Accupedo](https://accupedo.com/)
 
 
 3. La última característica popular en las aplicaciones de salud y fitness es el control de la frecuencia cardíaca. Estas aplicaciones miden la frecuencia cardíaca del usuario mientras hace ejercicio utilizando tecnología de detección de frecuencia cardíaca, como sensores ópticos en dispositivos portátiles como relojes contemporáneos o cámaras de teléfonos. Los usuarios pueden mantener los rangos de frecuencia cardíaca deseados y recibir comentarios sobre la intensidad de su entrenamiento. Las aplicaciones de fitness pueden generar programas de entrenamiento y ofrecer recomendaciones específicas basadas en datos de cadencia para maximizar los resultados. Otros elementos que se pueden combinar con los datos de cadencia incluyen la duración del ejercicio y las calorías quemadas. 
 
-**EJEMPLOS:**
--[Pulsómetro Plus](https://play.google.com/store/apps/details?id=com.dungelin.heartrate&hl=es&gl=US)
--[Heart Rate Monitor](https://play.google.com/store/apps/details?id=com.repsi.heartrate&hl=en_US) 
--[Cardiio: Medidor de pulso](https://apps.apple.com/es/app/cardiio-medidor-de-pulso/id542891434) 
+### **EJEMPLOS:**
+### -[Pulsómetro Plus](https://play.google.com/store/apps/details?id=com.dungelin.heartrate&hl=es&gl=US)
+### -[Heart Rate Monitor](https://play.google.com/store/apps/details?id=com.repsi.heartrate&hl=en_US) 
+### -[Cardiio: Medidor de pulso](https://apps.apple.com/es/app/cardiio-medidor-de-pulso/id542891434) 
 
 Los algoritmos de inteligencia artificial, las tecnologías de sensores y el análisis de datos se utilizan en combinación para integrar la hibridación digital en las aplicaciones de fitness y bienestar. Para brindar recomendaciones individualizadas y seguimiento en tiempo real, estas aplicaciones procesan una gran cantidad de datos, incluidas las preferencias del usuario, la información biométrica y la actividad física registrada.
 
